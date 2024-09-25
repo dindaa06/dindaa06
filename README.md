@@ -18,5 +18,5 @@ If you're interested in getting to know me, please connect me on [Linkedin](http
 </p>
 
 ### Reach me on
-- <a href="(https://www.linkedin.com/in/adinda-khusnul-khotimah/)">LinkedIn</a>
-- <a href="(https://www.instagram.com/dindaa.06/)">Instagram</a>
+- <a href="https://www.linkedin.com/in/adinda-khusnul-khotimah/">LinkedIn</a>
+- <a href="https://www.instagram.com/dindaa.06/">Instagram</a>
