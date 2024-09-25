@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-Perkenalkan nama saya **Adinda Khusnul Khotimah**.<br>
+My name is **Adinda Khusnul Khotimah**.<br>
 
-Saya merupakan mahasiswa aktif di bidang Teknik Informatika dan Komputer.<br>
+I'am an **Undergraduate Student of Informatics and Computer Engineering** .<br>
 
-**Saat ini, saya juga tergabung dalam program Bangkit 2024 Batch 2 untuk Cloud Computing, yang dipimpin oleh Google, Tokopedia, Gojek, dan Traveloka.**.<br>
+**Currently, I'm participating in the prestigious Cloud Computing Cohort at Bangkit 2024 Batch 2, an initiative led by Google, Tokopedia, Gojek, and Traveloka.**.<br>
 
-Saya memiliki keahlian dalam pengelolaan basis data, pemrograman web, administrasi basis data, dan integrasi data. Saya telah berkontribusi dalam berbagai proyek seperti merancang data warehouse, mengembangkan RESTful API, serta membangun website landing page untuk UMKM. Selain itu, saya telah memperoleh berbagai sertifikasi, termasuk dalam pengembangan web, dasar-dasar pemrograman, dan logika pemrograman, serta mendapatkan sertifikat Junior Mobile Programmer.Saya sangat antusias untuk terus memperluas pengetahuan saya di bidang teknologi, terutama cloud computing dan analitika data.
+I have expertise in database management, web programming, database administration, and data integration. I have contributed in various projects such as designing data warehouse, developing RESTful API, and building landing page website for MSMEs. In addition, I have obtained various certifications, including in web development, programming fundamentals, and programming logic, as well as earning a Junior Mobile Programmer certificate. I am excited to continue expanding my knowledge in technology, especially cloud computing and data analytics.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/adinda-khusnul-khotimah/])ku ya.
+If you're interested in getting to know me, please connect me on [Linkedin]([https://www.linkedin.com/in/adinda-khusnul-khotimah/]).
